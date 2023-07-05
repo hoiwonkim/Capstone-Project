@@ -6,7 +6,9 @@ This capstone project focuses on developing a web application similar to Airbnb.
 1. [Project Objectives](#project-objectives)
 2. [Technologies](#technologies)
 3. [User Features](#user-features)
-4. [Property Owner Features](#property-owner-features)
+4. [Property Features](#property-owner-features)
+5. [Project Flowchart](#project-flowchart)
+6. [User Flow Diagram](#user-flow-diagram)
 
 <a name="project-objectives"></a>
 ## Project Objectives
@@ -32,4 +34,26 @@ This capstone project focuses on developing a web application similar to Airbnb.
 - Write detailed information about the property, including amenities, rules, and availabilities
 - Manage listings through a dashboard, such as adding, editing, or deleting properties
 
-Feel free to contribute or provide feedback to improve the project!
+<a name="project-flowchart"></a>
+## Project Flowchart
+
+```mermaid
+flowchart TD
+    A[start project] --> B[requirements analysis]
+    B --> C[backend development]
+    C --> D[frontend development]
+    D --> E[test]
+    E --> F[distribution]
+    F --> G[Maintenance]
+    G --> H[Complete Project]
+
+    C --> I[Implement Marketplace Features]
+    I --> J[Search Accommodation]
+    I --> K[Favorite function]
+    I --> L[Reservation function]
+    I --> M[write a review]
+    I --> N[check dashboard]
+![Project Flowchart]("C:\Users\GGPC\Desktop\Capstone-project")
+
+User Flow Diagram
+Run -> Login -> Search -> Listings -> Select listings -> Listing details -> Bookmarks -> Book -> Book Success/Failure -> Write a review -> Submit a review -> Complete review -> Dash Board -> Booking History -> Favorites List -> Review History -> Account Settings -> Sign Out This User Flow Diagram provides a detailed representation of Airbnb web application's user experience (UX) design illustrating the interactions and pathways taken by users. The sequence includes logging in, searching for accommodations, choosing from a list of accommodations, viewing property details, saving to favorites, booking, writing reviews, and accessing the dashboard to manage bookings, favorite properties, review history
