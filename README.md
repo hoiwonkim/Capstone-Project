@@ -44,4 +44,4 @@ This capstone project focuses on developing a web application similar to Airbnb.
 
 ![User Flow Diagram](https://github.com/hoiwonkim/Documentation-Exercise/blob/main/User%20Flow%20Diagram.png)
 
-This User Flow Diagram provides a detailed representation of Airbnb web application's user experience (UX) design illustrating the interactions and pathways taken by users. The sequence includes logging in, searching for accommodations, choosing from a list of accommodations, viewing property details, saving to favorites, booking, writing reviews, and accessing the dashboard to manage bookings, favorite properties, review history, and account settings, followed by logging out.
+This User Flow Diagram provides a detailed representation of the RoomFree web application's user experience (UX) design, illustrating users' interactions and pathways. The sequence includes logging in, searching for accommodations, choosing from a list of accommodations, viewing property details, saving to favorites, booking, writing reviews, and accessing the dashboard to manage bookings, favorite properties, review history, and account settings, followed by logging out.
