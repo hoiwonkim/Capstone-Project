@@ -40,7 +40,8 @@ This capstone project focuses on developing a web application similar to Airbnb.
 ![Project Flowchart](https://github.com/hoiwonkim/Documentation-Exercise/blob/main/mermaid-diagram-2023-07-05-092643.png)
 
 <a name="user-flow-diagram"></a>
-## User Flow Diagram
-Run -> Login -> Search -> Listings -> Select listings -> Listing details -> Bookmarks -> Book -> Book Success/Failure -> Write a review -> Submit a review -> Complete review -> Dash Board -> Booking History -> Favorites List -> Review History -> Account Settings -> Sign Out
+## User Flow Diagram  
+
+![User Flow Diagram](https://github.com/hoiwonkim/Documentation-Exercise/blob/main/User%20Flow%20Diagram.png)
 
 This User Flow Diagram provides a detailed representation of Airbnb web application's user experience (UX) design illustrating the interactions and pathways taken by users. The sequence includes logging in, searching for accommodations, choosing from a list of accommodations, viewing property details, saving to favorites, booking, writing reviews, and accessing the dashboard to manage bookings, favorite properties, review history, and account settings, followed by logging out.
