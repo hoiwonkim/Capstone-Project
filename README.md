@@ -64,6 +64,6 @@ This capstone project focuses on developing a food delivery platform similar to 
 <a name="user-flow-diagram"></a>
 ## User Flow Diagram
 
-![User Flow Diagram](https://github.com/hoiwonkim/Capstone-Project/blob/main/User%20Flow%20Diagram.png)
+![User Flow Diagram](https://github.com/hoiwonkim/Capstone-Project/blob/main/New%20User%20Flow%20Diagram.png)
 
 Refer to the following User Flow Diagram to understand the user interactions and pathways, including searching for restaurants, selecting menu items, using the shopping cart, rating, and reviewing restaurants. It visually represents the user experience from logging in, using the various features, and logging out.
