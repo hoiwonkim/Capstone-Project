@@ -1,4 +1,4 @@
-# Capstone Project: Food Delivery Platform
+# Capstone Project: QuickBite
 
 This capstone project focuses on developing a food delivery platform similar to Uber Eats. The goal of this platform is to provide seamless connections between users, restaurants, and delivery service providers and includes front-end and back-end systems to support interactions among these stakeholders.
 
