@@ -1,47 +1,69 @@
-# RoomFree Capstone Project
+# Capstone Project: Food Delivery Platform
 
-This capstone project focuses on developing a web application similar to Airbnb. It's an online marketplace for users to search, save, book accommodations, and leave reviews. The property owners can upload images, add property details, and manage listings via a convenient dashboard.
+This capstone project focuses on developing a food delivery platform similar to Uber Eats. The goal of this platform is to provide seamless connections between users, restaurants, and delivery service providers and includes front-end and back-end systems to support interactions among these stakeholders.
 
 ## Table of Contents
 1. [Project Objectives](#project-objectives)
 2. [Technologies](#technologies)
 3. [User Features](#user-features)
-4. [Property Owner Features](#property-owner-features)
-5. [Project Flowchart](#project-flowchart)
-6. [User Flow Diagram](#user-flow-diagram)
+4. [Restaurant Owner Features](#restaurant-owner-features)
+5. [Delivery Driver Features](#delivery-driver-features)
+6. [Project Stages](#project-stages)
+7. [User Flow Diagram](#user-flow-diagram)
 
 <a name="project-objectives"></a>
 ## Project Objectives
-- Create a web-based platform that allows users to search for and book accommodations
-- Provide a simple and responsive user interface
-- Implement property management features for property owners
+- Implement seamless interactions between users, restaurants, and delivery service providers
+- Provide real-time location information to users and delivery service providers
+- Offer real-time order tracking and delivery status to users, restaurant owners, and delivery drivers
+- Implement a convenient global payment module for users in various countries
+- Provide dashboard functionality for restaurant owners and service providers with data visualization for a better understanding of business metrics
 
 <a name="technologies"></a>
 ## Technologies
-- Backend: Python, Django, Django REST Framework, Strawberry GraphQL
-- Frontend: ReactJS
+- Frontend: ReactJS, GraphQL, Typescript, Apollo, TailwindCSS
+- Backend: NestJS, Typescript, TypeORM, GraphQL
 
 <a name="user-features"></a>
 ## User Features
-- Search for accommodations by location, check-in, check-out dates, and number of guests
-- Save their favorite listings for future reference
-- Book accommodations and manage bookings
-- Leave reviews and read others' feedback about accommodations
+1. Register and log in
+2. Browse nearby restaurants and check menus
+3. Receive personalized restaurant recommendations
+4. Add and manage menu items in shopping cart
+5. Place orders and make secure payments
+6. Track order status and delivery in real-time
+7. Update account settings and manage order history
+8. Rate and review restaurants and delivery services
 
-<a name="property-owner-features"></a>
-## Property Owner Features
-- Upload multiple images to showcase the property
-- Write detailed information about the property, including amenities, rules, and availabilities
-- Manage listings through a dashboard, such as adding, editing, or deleting properties
+<a name="restaurant-owner-features"></a>
+## Restaurant Owner Features
+1. Manage restaurant profile and menu
+2. Upload and update food images
+3. Set prices and offer promotions
+4. Receive real-time order status updates
+5. Track order history and analyze revenue through dashboard
+6. Manage delivery service providers
+7. Respond to customer reviews and ratings
 
-<a name="project-flowchart"></a>
-## Project Flowchart
+<a name="delivery-driver-features"></a>
+## Delivery Driver Features
+1. Sign up and log in as a delivery driver
+2. Set availability for delivery requests
+3. Receive notifications for nearby delivery requests
+4. Accept or decline delivery requests
+5. View order details and restaurant location information
+6. Achieve minimal delivery time using GPS navigation
+7. Track income, tips, and completed deliveries
+8. Manage account settings and update personal information
 
-![Project Flowchart](https://github.com/hoiwonkim/Documentation-Exercise/blob/main/mermaid-diagram-2023-07-05-092643.png)
+<a name="project-stages"></a>
+## Project Stages
+
+![Project Stages](https://github.com/hoiwonkim/Documentation-Exercise/blob/main/mermaid-diagram-2023-07-05-092643.png)
 
 <a name="user-flow-diagram"></a>
-## User Flow Diagram  
+## User Flow Diagram
 
 ![User Flow Diagram](https://github.com/hoiwonkim/Documentation-Exercise/blob/main/User%20Flow%20Diagram.png)
 
-This User Flow Diagram provides a detailed representation of the RoomFree web application's user experience (UX) design, illustrating users' interactions and pathways. The sequence includes logging in, searching for accommodations, choosing from a list of accommodations, viewing property details, saving to favorites, booking, writing reviews, and accessing the dashboard to manage bookings, favorite properties, review history, and account settings, followed by logging out.
+Refer to the following User Flow Diagram to understand the user interactions and pathways, including searching for restaurants, selecting menu items, using the shopping cart, rating, and reviewing restaurants. It visually represents the user experience from logging in, using the various features, and logging out.
