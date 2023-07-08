@@ -59,7 +59,7 @@ This capstone project focuses on developing a food delivery platform similar to 
 <a name="project-stages"></a>
 ## Project Stages
 
-![Project Stages](https://github.com/hoiwonkim/Documentation-Exercise/blob/main/mermaid-diagram-2023-07-05-092643.png)
+![Project Stages](https://github.com/hoiwonkim/Capstone-Project/blob/main/Project%20Flowchart.png)
 
 <a name="user-flow-diagram"></a>
 ## User Flow Diagram
